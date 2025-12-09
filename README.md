@@ -62,5 +62,5 @@ Proje modüler bir yapıya sahiptir:
    - **Tur Göster:** Toplam çalışma sayınızı gösterir (Fişi çekseniz bile silinmez).
 
 ---
-*Geliştirici: Efe [Soyadın]*
+*Geliştirici: Efe Kazan*
 *Bilgisayar Mühendisliği Öğrencisi*
